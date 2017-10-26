@@ -13,23 +13,22 @@ header {
 }
 
 body {
-  margin: 0px;
+  margin: 0;
 }
 
 h1 {
-  font-family: 'Sigmar One', sans-serif;
+  font-family: Sigmar One, sans-serif;
   color: #b20953;
   font-size: 3em;
-  margin: 0px;
+  margin: 0;
 }
 
 nav ol {
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
   list-style-type: none;
-  margin: .3em;
   padding: 0px;
   text-align: center;
-  margin: 0em;
+  margin: 0;
 }
 
 a {
@@ -46,21 +45,21 @@ a:hover {
 }
 
 nav li {
-display: inline-block;
-padding-bottom: .75em;
+  display: inline-block;
+  padding-bottom: .75em;
 }
 
 h2 {
-  font-family: 'Sigmar One', sans-serif;
+  font-family: Sigmar One, sans-serif;
   color: #b20953;
   font-size: 1.8em;
   text-align: center;
 }
 
 p {
-font-family: "Georgia", serif;
-line-height: 1.5em;
-text-align: center;
+  font-family: Georgia, serif;
+  line-height: 1.5em;
+  text-align: center;
 }
 
 footer {
